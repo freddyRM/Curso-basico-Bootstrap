@@ -1,0 +1,19 @@
+html{
+    font-size: 30px;
+}
+
+/*p{
+    font-size: 1rem;/*relativo con el tamaño del html y por defecto 1rem es 16px*/
+   /* border: .1rem black solid;
+    padding: 1rem;
+}*/
+
+.caja{
+    font-size: 10px;
+}
+
+p{
+    font-size: 1em;/*relativo con el tamaño del html y por defecto 1rem es 16px*/
+    border: .1em black solid;
+    padding: 1em;
+}
